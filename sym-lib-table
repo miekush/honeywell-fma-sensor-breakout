@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "honeywell_fma_sensor_breakout")(type "KiCad")(uri "${KIPRJMOD}/honeywell_fma_sensor_breakout.kicad_sym")(options "")(descr ""))
+)
