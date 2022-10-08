@@ -2,7 +2,7 @@
 
 Simple breakout PCB for Honeywell FMA MicroForce series force sensors
 
-![Breakout Assembled](https://github.com/miekush/honeywell-fma-sensor-breakout/blob/main/Images/breakout.jpg)
+![Breakout Assembled](https://github.com/miekush/honeywell-fma-sensor-breakout/blob/main/Images/pcb.png)
 
 # Interface Selection
 
