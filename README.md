@@ -2,7 +2,7 @@
 
 Simple breakout PCB for Honeywell FMA MicroForce series force sensors
 
-![Breakout Assembled](https://github.com/miekush/pico-scd41-co2-meter/blob/main/board_front.png)
+![Breakout Assembled](https://github.com/miekush/honeywell-fma-sensor-breakout/blob/main/Images/breakout.jpg)
 
 # Interface Selection
 
