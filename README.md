@@ -15,3 +15,15 @@ As the breakout supports both SPI and I2C variants of the MicroForce sensors, th
 | R1 | - | 10k |
 | R2 | - | 10k |
 | R3 | 10k | - |
+
+# License
+
+MKE supports the open source hardware community by sharing hardware design files freely on GitHub!
+
+Please support MKE by purchasing products on [Tindie](https://www.tindie.com/stores/mkengineering/)!
+
+Designed by Mike Kushnerik (miekush)
+
+Licensed under [Creative Commons Attribution-ShareAlike CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+
+All text above must be included in any redistribution!
